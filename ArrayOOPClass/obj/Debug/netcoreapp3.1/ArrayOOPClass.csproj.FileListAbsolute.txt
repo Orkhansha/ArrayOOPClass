@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.exe
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.deps.json
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.runtimeconfig.json
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.dll
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\bin\Debug\netcoreapp3.1\ArrayOOPClass.pdb
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.dll
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.pdb
+C:\Users\HP\Desktop\Programmer\c#\ArrayOOPClass\ArrayOOPClass\obj\Debug\netcoreapp3.1\ArrayOOPClass.genruntimeconfig.cache
